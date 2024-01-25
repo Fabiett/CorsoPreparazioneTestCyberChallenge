@@ -19,3 +19,6 @@ Argomenti trattati:
 Link:
 - [Collab appunti lezione](https://colab.research.google.com/drive/1sxMWT8LxJIBDZChiQ_TIbi0rgbpDxwNK)
 - [Python per tutti, Charles R. Severance](https://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf)
+- [Testo esercizio svolto a lezione](https://cyberchallenge.it/media/public/training/2023-pretest.pdf)
+- [Casi di prova esercizio svolto a lezione](https://cyberchallenge.it/media/public/training/2023-pretest-dataset.zip)
+- [Soluzione dell'esercizio proposta a lezione]()
