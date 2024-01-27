@@ -7,7 +7,6 @@ Argomenti trattati:
 - List comprehension
 - Funzioni
 - Trucchetti e funzioni utili
-- Esercizi
 
 Link:
 - [Python per tutti, Charles R. Severance](https://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf)
