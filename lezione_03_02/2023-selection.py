@@ -1,3 +1,5 @@
+# https://cyberchallenge.it/media/public/training/2023-selection.pdf
+
 from argparse import ArgumentParser
 from os.path import exists
 from collections import defaultdict
